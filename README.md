@@ -1,4 +1,4 @@
-# Student Project Submission REST API
+#Project Submission REST API
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project is a RESTful API developed using **Node.js**, **Express.js**, and *
 
 **Student Name:** Harsh Kumar Sharma
 
-**Registration Number:** 12418388
+
 
 ---
 
